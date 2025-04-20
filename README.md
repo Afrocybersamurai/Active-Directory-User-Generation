@@ -25,9 +25,9 @@ In this project, we'll ***Create User Accounts using a Powershell Script*** to p
 
 <h2>Prerequisites</h2>
 
-1. <a href="https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md"> Active Directory Setup & Network Traffic Analysis between Azure VMs </a>
+1. <a href="https://github.com/Afrocybersamurai/Active-Directory-and-Azure-Setup/blob/main/README.md"> Active Directory Setup & Network Traffic Analysis between Azure VMs </a>
 
-2. <a href="https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment & Configuration </a>
+2. <a href="https://github.com/Afrocybersamurai/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment & Configuration </a>
 
 <br>
 
